@@ -33,6 +33,9 @@ The booking can always be made as long as there is remaiing capacity in the sele
 <br>
 
 ---
+Presentation Link: https://docs.google.com/presentation/d/1mRjSQTPHxt3fGO0CcGLnhZnWMZVlHSld6ICUPnEd5P0/edit?usp=sharing
+
+GitHub Link: https://github.com/T-uba/IronHackFinalProject.git
 
 ---
 
